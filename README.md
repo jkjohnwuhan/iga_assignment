@@ -76,9 +76,6 @@ assignment_knk/
 - CSV to Parquet을 달성하기 위해 Lambda function에서 Pandas, Pyarrow Library를 Import 했습니다.
 - 해당 library를 Import 하려면 제가 사용하고자 하는 library를 ZIP 형태로 묶어 `layers`에 업로드합니다.
 
-![image-20221024232313699](Z:\Work\Forms\이직\2022 하반기 (08~)\[IGA Works] Data Platform Engineer\images\[IGAWorks] 과제 전형 (제출용)\image-20221024232313699.png)
-
-![image-20221024232729709](Z:\Work\Forms\이직\2022 하반기 (08~)\[IGA Works] Data Platform Engineer\images\[IGAWorks] 과제 전형 (제출용)\image-20221024232729709.png)
 
 
 
